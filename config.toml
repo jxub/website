@@ -1,6 +1,6 @@
-baseurl = "https://jxub.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "http://jakubjanarek.com/"  # End your URL with a `/` trailing slash.
 title = "Jakub Janarek"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2017 Your Name"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
