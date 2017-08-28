@@ -11,6 +11,7 @@ title = "Jakub Janarek"
 disqusShortname = "@jakubjanarek"
 pluralizelisttitles = false
 latestpostcount = 20
+RSSLink = false
 
 [permalinks]
 blog = "blog/:slug/"
